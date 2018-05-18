@@ -1,0 +1,7 @@
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_Homework\20180124_1.2_Homework\bin\Debug\20180124_1.2_Homework.exe.config
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_Homework\20180124_1.2_Homework\bin\Debug\20180124_1.2_Homework.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_Homework\20180124_1.2_Homework\bin\Debug\20180124_1.2_Homework.pdb
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_Homework\20180124_1.2_Homework\obj\Debug\20180124_1.2_Homework.csproj.CoreCompileInputs.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_Homework\20180124_1.2_Homework\obj\Debug\20180124_1.2_Homework.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_Homework\20180124_1.2_Homework\obj\Debug\20180124_1.2_Homework.pdb
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_Homework\20180124_1.2_Homework\obj\Debug\20180124_1.2_Homework.csprojResolveAssemblyReference.cache
